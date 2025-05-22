@@ -23,8 +23,8 @@ ence then a pop-up will appear on the screen showing the name of the part to be 
 
 ## Output:
 
-### Name: ESAKKINDHAR A
-### Register Number: 212224040085
+### Name: khamalraaj S
+### Register Number: 212224230122
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
